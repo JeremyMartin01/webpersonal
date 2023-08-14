@@ -1,6 +1,6 @@
-# Web Personal del Curso de Django
+# Mini proyecto Web Personal.
 
-Proyecto revisado y funcionando perfectamente con Python 3.10.2 y Django 4.0.2
+Funciona perfectamente con Python 3.10.2 y Django 4.0.2
 
 ## Instalación con Pipenv
 
